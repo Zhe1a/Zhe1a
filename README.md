@@ -9,12 +9,12 @@ My part was the 'hero' section, where the rendering was implemented based on API
 
 # Wallet
 ## [link](https://github.com/Zhe1a/Wallet)
-"Sometimes, there's a need to manage one's budget, and this wallet project was developed to track income and expenses. In this team project, I was responsible for the registration and login section. The project was built using React, and requests were made using Axios.
-Validation was also implemented during the registration phase, and to enhance password security understanding, a strength indicator was developed. My team and I ensured the project's responsiveness across all devices."
+Sometimes, there's a need to manage one's budget, and this wallet project was developed to track income and expenses. In this team project, I was responsible for the registration and login section. The project was built using React, and requests were made using Axios.
+Validation was also implemented during the registration phase, and to enhance password security understanding, a strength indicator was developed. My team and I ensured the project's responsiveness across all devices.
 
 ![Зауваження 2023-08-16 201533](https://github.com/Zhe1a/Zhe1a/assets/108029808/35149206-7b3a-46fe-ba09-68fdde919e50)
 ![Зауваження 2023-08-16 201518](https://github.com/Zhe1a/Zhe1a/assets/108029808/3840ca5c-8f5d-4609-8393-3b63576da73c)
-![Зауваження 2023-08-16 201429](https://github.com/Zhe1a/Zhe1a/assets/108029808/03692f77-36e7-4d4e-80a7-1f95c12b2311)
+
 
 
 
