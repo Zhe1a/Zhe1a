@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=&logo=react&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=&logo=sass&logoColor=black)
 
-"For everyone, it's very important to have a friend, someone you can hug and who will always be happy to see you. In this project, I solidified my knowledge of React and also improved data validation that users provide. My area of responsibility in the project was user registration and login. Registration here occurs in two stages – if the user enters incorrect data in the first stage, they won't be able to proceed with registration. All requests are sent to the backend and processed there."
+For everyone, it's very important to have a friend, someone you can hug and who will always be happy to see you. In this project, I solidified my knowledge of React and also improved data validation that users provide. My area of responsibility in the project was user registration and login. Registration here occurs in two stages – if the user enters incorrect data in the first stage, they won't be able to proceed with registration. All requests are sent to the backend and processed there.
 
 <p> 
 <img src="./img/petly/petly_1.png" width="250" alt="cocktalis">
@@ -35,9 +35,10 @@ For a developer, it's important to quickly find some cocktail that they might no
 My part was the 'hero' section, where the rendering was implemented based on API requests using fetch. The entire functionality was written in JavaScript, and the rendering of letters was achieved through different screen width conditions
 
 <p> 
-<img src="./img/cocktalis/cocktalis_1.png" width="250" alt="cocktalis">
-<img width="250" src="./img/cocktalis/cocktalis_3.png" alt="cocktalis">
-<img width="250" src="./img/cocktalis/cocktelis_2.png" alt="cocktalis"/>
+<img src="./img/cocktalis/cocltalis_1.png" width="250" alt="cocktalis">
+<img width="250" src="./img/cocktalis/cocltalis_2.png" alt="cocktalis">
+<img width="250" src="./img/cocktalis/cocltalis_3.png" alt="cocktalis"/>
+<img width="250" src="./img/cocktalis/cocltalis_4.png" alt="cocktalis"/>
 </p>
 
 # Wallet 👝 [code](https://github.com/Zhe1a/Wallet)
@@ -54,7 +55,10 @@ Validation was also implemented during the registration phase, and to enhance pa
 
 
 <p> 
-<img width="250"  src="./img/wallet/wallet_1.png" alt="wallet"/><img width="250"  src="./img/wallet/wallet_2.png" alt="wallet"></img><img width="250"  src="./img/wallet/wallet_3.png" alt="wallet"></img>
+<img width="250"  src="./img/wallet/wallet_1.png" alt="wallet"/>
+<img width="250"  src="./img/wallet/wallet_2.png" alt="wallet"></img>
+<img width="250"  src="./img/wallet/wallet_3.png" alt="wallet"></img>
+<img width="250"  src="./img/wallet/wallet_4.png" alt="wallet"></img>
 </p>
 
 # ico-cream 🍦 [code](https://github.com/Zhe1a/ice-cream)
