@@ -7,6 +7,11 @@
 
 # Cocktails 🍸
 ## [link](https://github.com/Zhe1a/Cocktails)
+
+![Resume](https://img.shields.io/badge/HTML-E34F26?style=&logo=html5)
+![Resume](https://img.shields.io/badge/SASS-CC6699?style=&logo=sass)
+![Resume](https://img.shields.io/badge/JS-F7DF1E?style=&logo=jss)
+
 For a developer, it's important to quickly find some cocktail that they might not have even seen before. In this project that was assigned to our self-study group, there were four of us, and we divided the work into sections.
 My part was the 'hero' section, where the rendering was implemented based on API requests using fetch. The entire functionality was written in JavaScript, and the rendering of letters was achieved through different screen width conditions
 
@@ -18,12 +23,17 @@ My part was the 'hero' section, where the rendering was implemented based on API
 
 # Wallet 👝
 ## [link](https://github.com/Zhe1a/Wallet)
+![Resume](https://img.shields.io/badge/React-61DAFB?style=&logo=react)
+![Resume](https://img.shields.io/badge/SASS-CC6699?style=&logo=sass)
+
+
+
 Sometimes, there's a need to manage one's budget, and this wallet project was developed to track income and expenses. In this team project, I was responsible for the registration and login section. The project was built using React, and requests were made using Axios.
 Validation was also implemented during the registration phase, and to enhance password security understanding, a strength indicator was developed. My team and I ensured the project's responsiveness across all devices.
 
 
 
-<img width="350" height="350" src="../Zhe1a/img/wallet/wallet_1.png" alt="cocktalis"/><img width="350" height="350" src="../Zhe1a/img/wallet/wallet_2.png" alt="cocktalis"></img><img width="350" height="350" src="../Zhe1a/img/wallet/wallet_3.png" alt="cocktalis"></img>
+<img width="350" height="350" src="./img/wallet/wallet_1.png" alt="wallet"/><img width="350" height="350" src="./img/wallet/wallet_2.png" alt="wallet"></img><img width="350" height="350" src="./img/wallet/wallet_3.png" alt="wallet"></img>
 
 
 <!--
