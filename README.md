@@ -1,3 +1,7 @@
+
+
+![LinkedIn](https://github.com/Zhe1a/Zhe1a/assets/108029808/65c754f7-692b-4f8a-a413-cb3edf121e62)-![LinkedIn](https://www.linkedin.com/in/yevgeny-melnyk-831158259/)
+
 # Cocktails
 ## [link](https://github.com/Zhe1a/Cocktails)
 For a developer, it's important to quickly find some cocktail that they might not have even seen before. In this project that was assigned to our self-study group, there were four of us, and we divided the work into sections.
