@@ -1,6 +1,6 @@
 
 
-# 👋Hi ,My name is Yevgeny_Melnyk and l'm is Junior Front-end developer
+# 👋Hi ,My name is Yevgeny_Melnyk and l'm Junior Front-end developer
 
 <!-- ![Resume](https://img.shields.io/badge/Resume-red?style=&logo=readme) -->
 [![Gmail](https://img.shields.io/badge/email-mgr58006@gmail.com-blue?style=&logo=gmail)](https://www.linkedin.com/in/yevgeny-melnyk-831158259/)
