@@ -8,7 +8,7 @@
 
 
 
-# Petly 🐕🐈🐿 [code](https://github.com/Amfiteatr42/React-Node-TeamProject)
+# Petly 🐕🐈🐿 [code](https://github.com/Zhe1a/petly)
 ![React](https://img.shields.io/badge/React-61DAFB?style=&logo=react&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=&logo=sass&logoColor=black)
 
